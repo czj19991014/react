@@ -1,0 +1,12 @@
+.div1{
+    width: 30%;
+    height:700px;
+    border: 1px solid grey;
+}
+.home_div2{
+    width:80px;
+    height: 200px;
+    margin-top: 350px;
+    margin-left: 300px;
+    position: absolute;
+}

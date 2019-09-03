@@ -1,0 +1,37 @@
+.planDetails{
+    width: 430px;
+    height: 700px;
+    border: 1px solid #CCCCCC;
+}
+.name{
+    width: 430px;
+    margin-top: 10px;
+    font-size: 25px;
+    text-align: center;
+    height: 40px;
+    font-weight: bold;
+}
+.time{
+    width:450px;
+    height:40px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.object{
+    width:450px;
+    height:40px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.details{
+    width:450px;
+    height:250px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.pay{
+    width:450px;
+    height:100px;
+    padding-left: 20px;
+    font-size: 20px;
+}

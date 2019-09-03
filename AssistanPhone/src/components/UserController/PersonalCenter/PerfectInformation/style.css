@@ -1,0 +1,59 @@
+.personalCenter_perfectInformation{
+    width: 375px;
+    height: 680px;
+    border: 1px solid #CCCCCC;
+}
+.title{
+    width:100%;
+    height:50px;
+    padding-top:5px;
+    text-align: center;
+    background-color: #0066FF;
+    color:white;
+    font-size: 28px;
+}
+.photo{
+    width:280px;
+    height:80px;
+    padding-left: 20px;
+    font-size:20px;
+}
+.updateName{
+    width:375px;
+    height:25px;
+    margin-left: 20px;
+    font-size:20px;
+    margin-top:5%;
+}
+.PersonalInput{
+    border:1px solid #CCCCCC;
+    font-size: large;
+    margin-top: 8%;
+    margin-right:0px;
+}
+
+.button{
+    width: 100px;
+    height: 25px;
+    background-color: #0066FF;
+    color: white;
+    font-size:25px;
+}
+.information{
+    width:280px;
+    height:200px;
+    padding-left: 5%;
+    font-size:20px;
+}
+.yes{
+    border:1px solid #CCCCCC;
+    background-color: #0066FF;
+    border-radius: 10px;
+    font-size: 22px;
+    color: white;
+    width:50%;
+    text-align: center;
+    height: 40px;
+    margin-left: 20%;
+    margin-top: 25%;
+}

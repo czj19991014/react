@@ -1,0 +1,89 @@
+.div1{
+    border: 1px solid grey;
+    width: 30%;
+    height: 70px;
+    background-color:blue;
+}
+.planDetails_span1{
+    font-size: 30px;
+    color:#FFFFFF;
+    line-height:70px;
+    padding-left: 30%;
+}
+.div2{
+    border: 1px solid grey;
+    width: 30%;
+    height: 600px;
+    margin-top: 0px;
+    margin-left: 0px;
+    position: absolute;
+}
+.planDetails_div2_1{
+    padding-top: 8px;
+    text-align: center;
+}
+.planDetails_div2_2{
+    padding-top: 8px;
+    text-align: center;
+    font-size: 30px;
+    color: dodgerblue;
+}
+.planDetails_div2_3{
+    margin:auto;
+    border-radius:10px;
+    border: 1px solid grey;
+    text-align: center;
+    margin-top: 20px;
+    width:87%;
+    height: 240px;
+}
+.planDetails_div2_3_span1{
+    float: left;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.planDetails_div2_3_span2{
+    float: left;
+    padding-left: 60px;
+    margin-top: 4px;
+}
+.planDetails_div2_3_1{
+    border: 1px solid grey;
+    width:80px;
+    height:80px;
+    border-radius:160px;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+.planDetails_div2_3_2{
+    margin-left: 2px;
+    position: absolute;
+    font-weight: 800;
+    margin-left: -150px;
+}
+.planDetails_p1{
+    font-weight: 800;
+}
+.planDetails_div2_3_3{
+    padding-top: 20px;
+    width:320px;
+    height:240px;
+    margin-left: 2px;
+    position: absolute;
+}
+.planDetails_div2_3_4{
+    overflow-wrap:break-word;
+}
+.planDetails_link{
+    color: #000000;
+    text-decoration: none;
+
+}
+.caseList_button{
+    width:100px;
+    height:60px;
+    margin-left: 145px;
+    background-color: blue;
+    margin-top: 10px;
+    position: absolute;
+}

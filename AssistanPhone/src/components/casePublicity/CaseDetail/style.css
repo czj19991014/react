@@ -1,0 +1,98 @@
+.div1{
+    border: 1px solid grey;
+    width: 100%;
+    height: 70px;
+    background-color:blue;
+}
+.span1{
+    font-size: 30px;
+    color:#FFFFFF;
+    line-height:70px;
+    padding-left: 35%;
+}
+.div2{
+    border: 1px solid grey;
+    width: 100%;
+    height: 850px;
+}
+.memberDetails_div2_1{
+    width: 80px;
+    height:80px;
+    padding-left: 40%;
+    padding-top: 10px;
+}
+.memberDetails_div2_2{
+    border: 1px solid grey;
+    width:80px;
+    height:80px;
+    border-radius:160px;
+}
+.memberDetails_div2_span1{
+    font-weight: 800;
+    margin-left:2px;
+    padding-top: 5px;
+    /*position: absolute;*/
+    height: 10px;
+}
+.memberDetails_div2_3{
+    border: 1px solid grey;
+    border-radius:0px;
+    float: left;
+    width: 187.5px;
+    height:35px;
+    /*margin-top:50px;*/
+}
+.memberDetails_div2_3_span1 {
+    text-align: center;
+    padding-left: 30px;
+}
+.memberDetails_div2_span2{
+    font-weight: 800;
+    margin-left:2px;
+    padding-top: 5px;
+    /*position: absolute;*/
+   height: 10px;
+    /*font-weight: 800;*/
+    /*margin-left:2px;*/
+    /*margin-top: 10px;*/
+}
+.memberDetails_div2_4{
+    width:378px;
+    height:160px;
+    border: 1px solid grey;
+}
+.memberDetails_div2_span3{
+    font-weight: 800;
+    margin-left: -300px;
+    margin-top: 2px;
+
+}
+
+.memberDetails_div2_4_1{
+    border: 1px solid grey;
+    width: 100px;
+    height:100px;
+    float: left;
+    margin-left: 5px;
+}
+.memberDetails_div2_5{
+    border:1px solid grey;
+    width:378px;
+    height:160px;
+    padding-top: 0px;
+}
+.memberDetails_div2_span4{
+    font-weight: 800;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.memberDetails_button{
+    width:100px;
+    height:60px;
+    margin-left: 145px;
+    background-color: blue;
+    margin-top: 10px;
+    position: absolute;
+}
+
+

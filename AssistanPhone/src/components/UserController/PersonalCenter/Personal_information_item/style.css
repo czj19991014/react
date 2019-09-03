@@ -1,0 +1,50 @@
+.plan{
+    width:162px;
+    height: 40px;
+    border: 1px solid #CCCCCC;
+    margin-left: 150px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: #0066FF;
+    color: white;
+}
+.unplan{
+    width:50%;
+    height:10%;
+    border: 1px solid #CCCCCC;
+    margin-left: 25%;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: #0066FF;
+    color: white;
+}
+.add{
+    width: 37px;
+    height:37px;
+    border: 1px solid #CCCCCC;
+    padding-left: 45px;
+
+}
+.hline{
+    width:37px;
+    height: 1px;
+    border:1px solid white;
+    padding:0;
+}
+.sline{
+    width:1px;
+    height: 37px;
+    border:1px solid white;
+    padding:-40px;
+}
+add1{
+    width: 160px;
+    height:40px;
+    border: 1px solid #CCCCCC;
+    font-size: 20px;
+    text-align: center;
+    background-color: #FFFFFF;
+    color: red;
+}

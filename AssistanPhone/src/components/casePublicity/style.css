@@ -1,0 +1,115 @@
+.div1{
+    border: 1px solid grey;
+    width: 30%;
+    height: 70px;
+    background-color:blue;
+}
+.case_div1{
+    border: 1px solid grey;
+    width: 30%;
+    height: 70px;
+    background-color:blue;
+}
+.case_span1{
+    font-size: 30px;
+    color:#FFFFFF;
+    line-height:70px;
+    padding-left: 35%;
+}
+.div2{
+    border: 1px solid grey;
+    width: 30%;
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 600px;
+    position: absolute;
+}
+.case_div2_1{
+    padding-top: 8px;
+    text-align: center;
+}
+.case_div2_2{
+    padding-top: 8px;
+    text-align: center;
+    font-size: 30px;
+    color: dodgerblue;
+}
+.case_div2_3{
+    margin:auto;
+    border: 1px solid grey;
+    text-align: center;
+    margin-top: 20px;
+    width:87%;
+    height: 200px;
+}
+.case_div2_3_1{
+    margin-left: 12px;
+    margin-top: 2px;
+    position: absolute;
+}
+.case_div2_3_2{
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+    margin-left:12px;
+    position: absolute;
+    float: left;
+}
+.case_div2_3_3{
+    margin-left: 120px;
+    margin-top: 15px;
+    position: absolute;
+    float: left;
+}
+.case_div2_3_p1{
+    font-weight:800;
+}
+.case_div2_3_p2{
+   /* margin-left: 120px;
+    margin-top: 20px;*/
+    overflow-wrap:break-word;
+}
+.case_div2_3_4{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 40px;
+    width: 200px;
+    height:150px;
+   /* background-color: #38b4d1;*/
+    float: left;
+}
+.case_div2_3_5{
+    border: 1px solid grey;
+    width: 120px;
+    height: 30px;
+    margin-left:15px;
+    margin-top: 150px;
+    float: left;
+}
+.case_div2_3_p3{
+    text-align: center;
+    line-height: 30px;
+}
+.case_div2_3_6{
+    border: 1px solid grey;
+    width: 150px;
+    height: 30px;
+    margin-left:150px;
+    margin-top: 150px;
+    float: left;
+    position: absolute;
+}
+.case_div2_4{
+    margin:auto;
+    border: 1px solid grey;
+    text-align: center;
+    margin-top: 20px;
+    width:87%;
+    height: 200px;
+}
+.case_link{
+    color: #000000;
+    text-decoration: none;
+
+}
